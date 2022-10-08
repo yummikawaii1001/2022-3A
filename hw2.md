@@ -1,4 +1,4 @@
-![PERT](關鍵路徑.png "")
+
 
 ```mermaid
 gantt
